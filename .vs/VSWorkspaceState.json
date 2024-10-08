@@ -1,0 +1,12 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\DailyExpenditureApp",
+    "\\DailyExpenditureApp\\DailyExpenditureApp",
+    "\\DailyExpenditureApp\\DailyExpenditureApp\\DTOs",
+    "\\DailyExpenditureApp\\DailyExpenditureApp\\Entities",
+    "\\DailyExpenditureApp\\DailyExpenditureApp\\Models"
+  ],
+  "SelectedNode": "\\DailyExpenditureApp\\DailyExpenditureApp\\Entities\\Location.cs",
+  "PreviewInSolutionExplorer": false
+}
