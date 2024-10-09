@@ -4,7 +4,7 @@ using System.ComponentModel.DataAnnotations.Schema;
 
 namespace DailyExpenditureApp.Models
 {
-    public class Expense
+    public class ExpenseModel
     {
         [Key]
         public string ItemName { get; set; } = "";

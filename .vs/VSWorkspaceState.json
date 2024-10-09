@@ -3,10 +3,8 @@
     "",
     "\\DailyExpenditureApp",
     "\\DailyExpenditureApp\\DailyExpenditureApp",
-    "\\DailyExpenditureApp\\DailyExpenditureApp\\DTOs",
-    "\\DailyExpenditureApp\\DailyExpenditureApp\\Entities",
-    "\\DailyExpenditureApp\\DailyExpenditureApp\\Models"
+    "\\DailyExpenditureApp\\DailyExpenditureApp\\Models",
+    "\\DailyExpenditureApp\\DailyExpenditureApp\\Properties"
   ],
-  "SelectedNode": "\\DailyExpenditureApp\\DailyExpenditureApp\\Entities\\Location.cs",
   "PreviewInSolutionExplorer": false
 }

@@ -8,6 +8,6 @@ namespace DailyExpenditureApp.Models
         {
         }
 
-        public DbSet<Expense> Expenses { get; set; }
+        public DbSet<ExpenseModel> Expenses { get; set; }
     }
 }
