@@ -2,9 +2,8 @@
   "ExpandedNodes": [
     "",
     "\\DailyExpenditureApp",
-    "\\DailyExpenditureApp\\DailyExpenditureApp",
-    "\\DailyExpenditureApp\\DailyExpenditureApp\\Models",
-    "\\DailyExpenditureApp\\DailyExpenditureApp\\Properties"
+    "\\DailyExpenditureApp\\DailyExpenditureApp"
   ],
+  "SelectedNode": "\\DailyExpenditureApp\\DailyExpenditureApp\\appsettings.json",
   "PreviewInSolutionExplorer": false
 }
