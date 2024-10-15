@@ -1,11 +1,7 @@
 {
   "ExpandedNodes": [
-    "",
-    "\\.github",
-    "\\.github\\workflows",
-    "\\DailyExpenditureApp",
-    "\\DailyExpenditureApp\\DailyExpenditureApp"
+    ""
   ],
-  "SelectedNode": "\\.github\\workflows\\dotnet.yml",
+  "SelectedNode": "\\DailyExpenditureApp.sln",
   "PreviewInSolutionExplorer": false
 }

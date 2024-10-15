@@ -3,12 +3,7 @@
   "WorkspaceRootPath": "C:\\Users\\Rafi\\Desktop\\WebDevelopmentProject\\DailyExpenditureApp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{691BA446-22ED-413F-B8DF-C7736A03894A}|DailyExpenditureApp.Tests\\DailyExpenditureApp.Tests.csproj|c:\\users\\rafi\\desktop\\webdevelopmentproject\\dailyexpenditureapp\\dailyexpenditureapp.tests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{691BA446-22ED-413F-B8DF-C7736A03894A}|DailyExpenditureApp.Tests\\DailyExpenditureApp.Tests.csproj|solutionrelative:dailyexpenditureapp.tests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F587303C-794A-4BA6-BAC9-71CCB18369BA}|DailyExpenditureApp\\DailyExpenditureApp.csproj|c:\\users\\rafi\\desktop\\webdevelopmentproject\\dailyexpenditureapp\\dailyexpenditureapp\\dailyexpenditureapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
-      "RelativeMoniker": "D:0:0:{F587303C-794A-4BA6-BAC9-71CCB18369BA}|DailyExpenditureApp\\DailyExpenditureApp.csproj|solutionrelative:dailyexpenditureapp\\dailyexpenditureapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Rafi\\Desktop\\WebDevelopmentProject\\.github\\workflows\\dotnet.yml||{8B382828-6202-11D1-8870-0000F87579D2}"
     }
   ],
   "DocumentGroupContainers": [
@@ -27,28 +22,19 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "UnitTest1.cs",
-              "DocumentMoniker": "C:\\Users\\Rafi\\Desktop\\WebDevelopmentProject\\DailyExpenditureApp\\DailyExpenditureApp.Tests\\UnitTest1.cs",
-              "RelativeDocumentMoniker": "DailyExpenditureApp.Tests\\UnitTest1.cs",
-              "ToolTip": "C:\\Users\\Rafi\\Desktop\\WebDevelopmentProject\\DailyExpenditureApp\\DailyExpenditureApp.Tests\\UnitTest1.cs",
-              "RelativeToolTip": "DailyExpenditureApp.Tests\\UnitTest1.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-12T19:27:19.696Z",
+              "Title": "dotnet.yml",
+              "DocumentMoniker": "C:\\Users\\Rafi\\Desktop\\WebDevelopmentProject\\.github\\workflows\\dotnet.yml",
+              "RelativeDocumentMoniker": "..\\.github\\workflows\\dotnet.yml",
+              "ToolTip": "C:\\Users\\Rafi\\Desktop\\WebDevelopmentProject\\.github\\workflows\\dotnet.yml",
+              "RelativeToolTip": "..\\.github\\workflows\\dotnet.yml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABIAAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
+              "WhenOpened": "2024-10-13T18:28:09.88Z",
               "EditorCaption": ""
             },
             {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "DailyExpenditureApp.csproj",
-              "DocumentMoniker": "C:\\Users\\Rafi\\Desktop\\WebDevelopmentProject\\DailyExpenditureApp\\DailyExpenditureApp\\DailyExpenditureApp.csproj",
-              "RelativeDocumentMoniker": "DailyExpenditureApp\\DailyExpenditureApp.csproj",
-              "ToolTip": "C:\\Users\\Rafi\\Desktop\\WebDevelopmentProject\\DailyExpenditureApp\\DailyExpenditureApp\\DailyExpenditureApp.csproj",
-              "RelativeToolTip": "DailyExpenditureApp\\DailyExpenditureApp.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-10-10T21:24:06.401Z",
-              "EditorCaption": ""
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0174dea2-fdbe-4ef1-8f99-c0beae78880f}"
             }
           ]
         }
