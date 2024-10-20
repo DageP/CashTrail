@@ -3,6 +3,30 @@
   "WorkspaceRootPath": "C:\\Users\\Rafi\\Desktop\\WebDevelopmentProject\\DailyExpenditureApp\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{F587303C-794A-4BA6-BAC9-71CCB18369BA}|DailyExpenditureApp\\DailyExpenditureApp.csproj|c:\\users\\rafi\\desktop\\webdevelopmentproject\\dailyexpenditureapp\\dailyexpenditureapp\\models\\expensedetailcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F587303C-794A-4BA6-BAC9-71CCB18369BA}|DailyExpenditureApp\\DailyExpenditureApp.csproj|solutionrelative:dailyexpenditureapp\\models\\expensedetailcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F587303C-794A-4BA6-BAC9-71CCB18369BA}|DailyExpenditureApp\\DailyExpenditureApp.csproj|c:\\users\\rafi\\desktop\\webdevelopmentproject\\dailyexpenditureapp\\dailyexpenditureapp\\models\\locationmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F587303C-794A-4BA6-BAC9-71CCB18369BA}|DailyExpenditureApp\\DailyExpenditureApp.csproj|solutionrelative:dailyexpenditureapp\\models\\locationmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Rafi\\Desktop\\WebDevelopmentProject\\DailyExpenditureApp\\DailyExpenditureApp\\Migrations\\20241020112044_MigrationTables.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:DailyExpenditureApp\\Migrations\\20241020112044_MigrationTables.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Rafi\\Desktop\\WebDevelopmentProject\\DailyExpenditureApp\\DailyExpenditureApp\\Migrations\\20241020111216_First Migration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:DailyExpenditureApp\\Migrations\\20241020111216_First Migration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F587303C-794A-4BA6-BAC9-71CCB18369BA}|DailyExpenditureApp\\DailyExpenditureApp.csproj|c:\\users\\rafi\\desktop\\webdevelopmentproject\\dailyexpenditureapp\\dailyexpenditureapp\\models\\expensemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F587303C-794A-4BA6-BAC9-71CCB18369BA}|DailyExpenditureApp\\DailyExpenditureApp.csproj|solutionrelative:dailyexpenditureapp\\models\\expensemodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F587303C-794A-4BA6-BAC9-71CCB18369BA}|DailyExpenditureApp\\DailyExpenditureApp.csproj|c:\\users\\rafi\\desktop\\webdevelopmentproject\\dailyexpenditureapp\\dailyexpenditureapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F587303C-794A-4BA6-BAC9-71CCB18369BA}|DailyExpenditureApp\\DailyExpenditureApp.csproj|solutionrelative:dailyexpenditureapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Rafi\\Desktop\\WebDevelopmentProject\\.github\\workflows\\dotnet.yml||{8B382828-6202-11D1-8870-0000F87579D2}"
     }
   ],
@@ -13,28 +37,106 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 4,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
             },
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0174dea2-fdbe-4ef1-8f99-c0beae78880f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "20241020112044_MigrationTables.cs",
+              "DocumentMoniker": "C:\\Users\\Rafi\\Desktop\\WebDevelopmentProject\\DailyExpenditureApp\\DailyExpenditureApp\\Migrations\\20241020112044_MigrationTables.cs",
+              "RelativeDocumentMoniker": "DailyExpenditureApp\\Migrations\\20241020112044_MigrationTables.cs",
+              "ToolTip": "C:\\Users\\Rafi\\Desktop\\WebDevelopmentProject\\DailyExpenditureApp\\DailyExpenditureApp\\Migrations\\20241020112044_MigrationTables.cs",
+              "RelativeToolTip": "DailyExpenditureApp\\Migrations\\20241020112044_MigrationTables.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-20T11:20:44.976Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LocationModel.cs",
+              "DocumentMoniker": "C:\\Users\\Rafi\\Desktop\\WebDevelopmentProject\\DailyExpenditureApp\\DailyExpenditureApp\\Models\\LocationModel.cs",
+              "RelativeDocumentMoniker": "DailyExpenditureApp\\Models\\LocationModel.cs",
+              "ToolTip": "C:\\Users\\Rafi\\Desktop\\WebDevelopmentProject\\DailyExpenditureApp\\DailyExpenditureApp\\Models\\LocationModel.cs",
+              "RelativeToolTip": "DailyExpenditureApp\\Models\\LocationModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-20T11:14:31.251Z",
+              "EditorCaption": ""
+            },
+            {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "ExpenseDetailContext.cs",
+              "DocumentMoniker": "C:\\Users\\Rafi\\Desktop\\WebDevelopmentProject\\DailyExpenditureApp\\DailyExpenditureApp\\Models\\ExpenseDetailContext.cs",
+              "RelativeDocumentMoniker": "DailyExpenditureApp\\Models\\ExpenseDetailContext.cs",
+              "ToolTip": "C:\\Users\\Rafi\\Desktop\\WebDevelopmentProject\\DailyExpenditureApp\\DailyExpenditureApp\\Models\\ExpenseDetailContext.cs",
+              "RelativeToolTip": "DailyExpenditureApp\\Models\\ExpenseDetailContext.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAQwBUAAAA8AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T22:01:39.657Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "20241020111216_First Migration.cs",
+              "DocumentMoniker": "C:\\Users\\Rafi\\Desktop\\WebDevelopmentProject\\DailyExpenditureApp\\DailyExpenditureApp\\Migrations\\20241020111216_First Migration.cs",
+              "RelativeDocumentMoniker": "DailyExpenditureApp\\Migrations\\20241020111216_First Migration.cs",
+              "ToolTip": "C:\\Users\\Rafi\\Desktop\\WebDevelopmentProject\\DailyExpenditureApp\\DailyExpenditureApp\\Migrations\\20241020111216_First Migration.cs",
+              "RelativeToolTip": "DailyExpenditureApp\\Migrations\\20241020111216_First Migration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-20T11:12:17.025Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ExpenseModel.cs",
+              "DocumentMoniker": "C:\\Users\\Rafi\\Desktop\\WebDevelopmentProject\\DailyExpenditureApp\\DailyExpenditureApp\\Models\\ExpenseModel.cs",
+              "RelativeDocumentMoniker": "DailyExpenditureApp\\Models\\ExpenseModel.cs",
+              "ToolTip": "C:\\Users\\Rafi\\Desktop\\WebDevelopmentProject\\DailyExpenditureApp\\DailyExpenditureApp\\Models\\ExpenseModel.cs",
+              "RelativeToolTip": "DailyExpenditureApp\\Models\\ExpenseModel.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAowBgAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T22:08:10.856Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Rafi\\Desktop\\WebDevelopmentProject\\DailyExpenditureApp\\DailyExpenditureApp\\Program.cs",
+              "RelativeDocumentMoniker": "DailyExpenditureApp\\Program.cs",
+              "ToolTip": "C:\\Users\\Rafi\\Desktop\\WebDevelopmentProject\\DailyExpenditureApp\\DailyExpenditureApp\\Program.cs",
+              "RelativeToolTip": "DailyExpenditureApp\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAwAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-19T22:01:06.189Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "dotnet.yml",
               "DocumentMoniker": "C:\\Users\\Rafi\\Desktop\\WebDevelopmentProject\\.github\\workflows\\dotnet.yml",
               "RelativeDocumentMoniker": "..\\.github\\workflows\\dotnet.yml",
               "ToolTip": "C:\\Users\\Rafi\\Desktop\\WebDevelopmentProject\\.github\\workflows\\dotnet.yml",
               "RelativeToolTip": "..\\.github\\workflows\\dotnet.yml",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABIAAAA0AAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAA0AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003775|",
               "WhenOpened": "2024-10-13T18:28:09.88Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{0174dea2-fdbe-4ef1-8f99-c0beae78880f}"
             }
           ]
         }
