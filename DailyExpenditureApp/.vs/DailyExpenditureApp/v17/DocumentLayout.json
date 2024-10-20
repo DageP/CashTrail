@@ -3,6 +3,14 @@
   "WorkspaceRootPath": "C:\\Users\\Rafi\\Desktop\\WebDevelopmentProject\\DailyExpenditureApp\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{F587303C-794A-4BA6-BAC9-71CCB18369BA}|DailyExpenditureApp\\DailyExpenditureApp.csproj|c:\\users\\rafi\\desktop\\webdevelopmentproject\\dailyexpenditureapp\\dailyexpenditureapp\\controllers\\expensemodelscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F587303C-794A-4BA6-BAC9-71CCB18369BA}|DailyExpenditureApp\\DailyExpenditureApp.csproj|solutionrelative:dailyexpenditureapp\\controllers\\expensemodelscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F587303C-794A-4BA6-BAC9-71CCB18369BA}|DailyExpenditureApp\\DailyExpenditureApp.csproj|c:\\users\\rafi\\desktop\\webdevelopmentproject\\dailyexpenditureapp\\dailyexpenditureapp\\dailyexpenditureapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{F587303C-794A-4BA6-BAC9-71CCB18369BA}|DailyExpenditureApp\\DailyExpenditureApp.csproj|solutionrelative:dailyexpenditureapp\\dailyexpenditureapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Rafi\\Desktop\\WebDevelopmentProject\\DailyExpenditureApp\\DailyExpenditureApp\\Migrations\\20241020112451_MigrationTables.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:DailyExpenditureApp\\Migrations\\20241020112451_MigrationTables.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -54,6 +62,32 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "ExpenseModelsController.cs",
+              "DocumentMoniker": "C:\\Users\\Rafi\\Desktop\\WebDevelopmentProject\\DailyExpenditureApp\\DailyExpenditureApp\\Controllers\\ExpenseModelsController.cs",
+              "RelativeDocumentMoniker": "DailyExpenditureApp\\Controllers\\ExpenseModelsController.cs",
+              "ToolTip": "C:\\Users\\Rafi\\Desktop\\WebDevelopmentProject\\DailyExpenditureApp\\DailyExpenditureApp\\Controllers\\ExpenseModelsController.cs",
+              "RelativeToolTip": "DailyExpenditureApp\\Controllers\\ExpenseModelsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-20T19:00:40.492Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DailyExpenditureApp",
+              "DocumentMoniker": "C:\\Users\\Rafi\\Desktop\\WebDevelopmentProject\\DailyExpenditureApp\\DailyExpenditureApp\\DailyExpenditureApp.csproj",
+              "RelativeDocumentMoniker": "DailyExpenditureApp\\DailyExpenditureApp.csproj",
+              "ToolTip": "C:\\Users\\Rafi\\Desktop\\WebDevelopmentProject\\DailyExpenditureApp\\DailyExpenditureApp\\DailyExpenditureApp.csproj",
+              "RelativeToolTip": "DailyExpenditureApp\\DailyExpenditureApp.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-10-20T18:16:38.031Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "20241020112451_MigrationTables.cs",
               "DocumentMoniker": "C:\\Users\\Rafi\\Desktop\\WebDevelopmentProject\\DailyExpenditureApp\\DailyExpenditureApp\\Migrations\\20241020112451_MigrationTables.cs",
               "RelativeDocumentMoniker": "DailyExpenditureApp\\Migrations\\20241020112451_MigrationTables.cs",
@@ -66,7 +100,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "20241020112044_MigrationTables.cs",
               "DocumentMoniker": "C:\\Users\\Rafi\\Desktop\\WebDevelopmentProject\\DailyExpenditureApp\\DailyExpenditureApp\\Migrations\\20241020112044_MigrationTables.cs",
               "RelativeDocumentMoniker": "DailyExpenditureApp\\Migrations\\20241020112044_MigrationTables.cs",
@@ -79,7 +113,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "LocationModel.cs",
               "DocumentMoniker": "C:\\Users\\Rafi\\Desktop\\WebDevelopmentProject\\DailyExpenditureApp\\DailyExpenditureApp\\Models\\LocationModel.cs",
               "RelativeDocumentMoniker": "DailyExpenditureApp\\Models\\LocationModel.cs",
@@ -92,7 +126,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 3,
               "Title": "ExpenseDetailContext.cs",
               "DocumentMoniker": "C:\\Users\\Rafi\\Desktop\\WebDevelopmentProject\\DailyExpenditureApp\\DailyExpenditureApp\\Models\\ExpenseDetailContext.cs",
               "RelativeDocumentMoniker": "DailyExpenditureApp\\Models\\ExpenseDetailContext.cs",
@@ -105,7 +139,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "20241020111216_First Migration.cs",
               "DocumentMoniker": "C:\\Users\\Rafi\\Desktop\\WebDevelopmentProject\\DailyExpenditureApp\\DailyExpenditureApp\\Migrations\\20241020111216_First Migration.cs",
               "RelativeDocumentMoniker": "DailyExpenditureApp\\Migrations\\20241020111216_First Migration.cs",
@@ -118,7 +152,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 7,
               "Title": "ExpenseModel.cs",
               "DocumentMoniker": "C:\\Users\\Rafi\\Desktop\\WebDevelopmentProject\\DailyExpenditureApp\\DailyExpenditureApp\\Models\\ExpenseModel.cs",
               "RelativeDocumentMoniker": "DailyExpenditureApp\\Models\\ExpenseModel.cs",
@@ -131,7 +165,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 8,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Rafi\\Desktop\\WebDevelopmentProject\\DailyExpenditureApp\\DailyExpenditureApp\\Program.cs",
               "RelativeDocumentMoniker": "DailyExpenditureApp\\Program.cs",
@@ -144,7 +178,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 9,
               "Title": "dotnet.yml",
               "DocumentMoniker": "C:\\Users\\Rafi\\Desktop\\WebDevelopmentProject\\.github\\workflows\\dotnet.yml",
               "RelativeDocumentMoniker": "..\\.github\\workflows\\dotnet.yml",
