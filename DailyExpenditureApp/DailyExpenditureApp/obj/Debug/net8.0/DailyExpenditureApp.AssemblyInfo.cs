@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("DailyExpenditureApp")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0c0b4dc9eb0bbd6d89fbfa1afbfe77d1d7209914")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8ea3a866cbd84c33194d364de46590d797872044")]
 [assembly: System.Reflection.AssemblyProductAttribute("DailyExpenditureApp")]
 [assembly: System.Reflection.AssemblyTitleAttribute("DailyExpenditureApp")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
